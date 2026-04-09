@@ -2,7 +2,7 @@
 //   ValidateX — Slide Navigation Engine
 // =============================================
 
-const TOTAL_SLIDES = 7;
+const TOTAL_SLIDES = 8;
 let currentSlide = 0;
 let isAnimating = false;
 
